@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiChatGpt", "ApiChatGpt.csproj", "{D6471865-B03C-447C-95AE-3683FD1BB3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6471865-B03C-447C-95AE-3683FD1BB3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6471865-B03C-447C-95AE-3683FD1BB3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6471865-B03C-447C-95AE-3683FD1BB3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6471865-B03C-447C-95AE-3683FD1BB3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96DB61A-5FE6-4F7C-B3DC-EDDA8F16EBC1}
+	EndGlobalSection
+EndGlobal
